@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9036F7&width=435&height=90&lines=Hello+user%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F+;Welcome+to+my+Github+Profile!;My+name+is+Kumar+Ayush!+" alt="Typing SVG" alt="README Typing">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9036F7&width=435&height=90&lines=Hello+user%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F+;Welcome+to+my+Github+Profile!;My+name+is+Kumar+Ayush!+" alt="Typing SVG" alt="README Typing">
 </p>
 
 <!-- <a href="https://mvp.microsoft.com/en-us/PublicProfile/5004174" target="_blank">
