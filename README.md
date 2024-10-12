@@ -18,7 +18,8 @@ My name is **KUMAR AYUSH**
 - 📫 How to reach me: krayush2605@gmail.com
 
 <br />
-## 🐱My Github stats:
+
+## 🐱 My Github stats:
   
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=kumar-AyushD&theme=chartreuse-dark&border_radius=10&card_width=495" />
@@ -26,10 +27,6 @@ My name is **KUMAR AYUSH**
   <br />
   <br />
   <br />
-</div>
-
-
-<div align = "center">
   <img align="center" src= "https://github-profile-trophy.vercel.app/?username=Kumar-AyushD&theme=gruvbox&margin-w=10" />
 </div>
 
