@@ -30,12 +30,13 @@ My name is **KUMAR AYUSH**
 
 
 <div align = "center">
-  <img align="center" src= "https://github-profile-trophy.vercel.app/?username=imanmalekian31&theme=gruvbox&margin-w=10" />
+  <img align="center" src= "https://github-profile-trophy.vercel.app/?username=Kumar-AyushD&theme=gruvbox&margin-w=10" />
 </div>
 
 <br />
 <br />
 
+## ⚡Tech Stack:
 
 <div>
   <p align="center">
