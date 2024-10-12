@@ -11,7 +11,7 @@ My name is **KUMAR AYUSH**
 
 <!-- - 👤 I’m a [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5004174). -->
 - 👤 I’m a Final-Year Student at KIIT.
-- 🔭 I’m currently working on [Bootstrap Blazor](https://github.com/Kumar-AyushD/codecohort)
+- 🔭 I’m currently working on [CodeCohort](https://github.com/Kumar-AyushD/codecohort)
 - 🌱 I’m currently learning **SpringBoot**
 - 👯 I’m looking to collaborate on Github.com
 <!-- - 🤔 I’m looking for help with **Bootstrap Blazor** docs translate work [#42](https://github.com/dotnetcore/BootstrapBlazor/issues/42) -->
@@ -24,12 +24,5 @@ My name is **KUMAR AYUSH**
   <img src="https://github-readme-stats.vercel.app/api?username=kumar-AyushD&show_icons=true&count_private=true&include_all_commits=true&theme=chartreuse-dark&border_radius=10&card_width=495" />
   <br />
   
-  <img src="https://github.com/Kumar-AyushD/github-stats/blob/master/generated/overview.svg" />
-  <img src="https://github.com/Kumar-AyushD/github-stats/blob/master/generated/languages.svg" />
-  <br />
-  
-  <a href="https://github.com/dotnetcore/BootstrapBlazor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dotnetcore&repo=BootstrapBlazor" /></a>
-  <a href="https://github.com/Kumar-AyushD/BootstrapAdmin"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Kumar-AyushD&repo=BootstrapAdmin" /></a>
-  <br />
 
 </div>
