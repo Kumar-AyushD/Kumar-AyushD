@@ -24,9 +24,24 @@ My name is **KUMAR AYUSH**
   <img src="https://streak-stats.demolab.com?user=kumar-AyushD&theme=chartreuse-dark&border_radius=10&card_width=495" />
   <img src="https://github-readme-stats.vercel.app/api?username=kumar-AyushD&show_icons=true&count_private=true&include_all_commits=true&theme=chartreuse-dark&border_radius=10&card_width=495" />
   <br />
+  <br />
+  <br />
 </div>
 
 
 <div align = "center">
   <img align="center" src= "https://github-profile-trophy.vercel.app/?username=imanmalekian31&theme=gruvbox&margin-w=10" />
+</div>
+
+<br />
+<br />
+
+
+<div>
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,express,figma,firebase,github,html,java,js,linux,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,&perline=14" />
+  </a>
+</p>
+
 </div>
