@@ -11,11 +11,11 @@ My name is **KUMAR AYUSH**
 
 <!-- - 👤 I’m a [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5004174). -->
 <!--- - 👤 I’m a Final-Year Student at KIIT. --->
-- 🔭 I’m currently working on [CodeCohort](https://github.com/Kumar-AyushD/codecohort)
+<!--- - 🔭 I’m currently working on [CodeCohort](https://github.com/Kumar-AyushD/codecohort)
 - 🌱 I’m currently learning **SpringBoot**
-- 👯 I’m looking to collaborate on Github.com
+- 👯 I’m looking to collaborate on Github.com --->
 <!-- - 🤔 I’m looking for help with **Bootstrap Blazor** docs translate work [#42](https://github.com/dotnetcore/BootstrapBlazor/issues/42) -->
-- 📫 How to reach me: krayush2605@gmail.com
+<!---- 📫 How to reach me: krayush2605@gmail.com --->
 
 <br />
 
