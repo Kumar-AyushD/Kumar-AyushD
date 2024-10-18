@@ -36,7 +36,7 @@ My name is **KUMAR AYUSH**
 <div>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,express,figma,firebase,github,html,java,js,linux,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,docker,postgres,express,figma,firebase,github,html,java,js,linux,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,&perline=14" />
   </a>
 </p>
 
