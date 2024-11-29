@@ -22,7 +22,7 @@ My name is **KUMAR AYUSH**
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on [CodeCohort](https://github.com/Kumar-AyushD/codecohort)
+- 🔭 I’m currently working on [CodeCohort](https://codecohort-nine.vercel.app)
   
 - 🌱 I’m currently learning **Git, Java & Springboot**
 
