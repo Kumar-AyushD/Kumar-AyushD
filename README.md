@@ -1,75 +1,72 @@
+# Kumar Ayush 
+## Backend Developer & Machine Learning Enthusiast
+
+## 🌟 Professional Summary
+
+A passionate final-year student at KIIT University, specializing in backend development and machine learning. I'm dedicated to creating robust, scalable solutions and continuously expanding my technological expertise.
+
+## 💻 Technical Proficiency
+
+### Languages & Frameworks
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/-Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+## 🚀 Current Focus
+
+- 🔭 Developing [CodeCohort](https://codecohort-nine.vercel.app) - An innovative collaborative learning platform
+- 🌱 Deepening expertise in Spring Boot, Java, and Microservices Architecture
+- 🤝 Open to collaborating on challenging open-source projects
+
+## 📊 GitHub Performance
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9036F7&width=435&height=90&lines=Hello+there%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F!;Welcome+to+my+GitHub+Profile!;I+am+Kumar+Ayush!" alt="Typing SVG">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kumar-AyushD&theme=dark&hide_border=false&fire=DD2727" alt="GitHub Streak" width="100%" />
 </p>
 
----
-
-<h1 align="center">Hi there 👋, I'm Kumar Ayush</h1>
 <p align="center">
-  I am a final-year student at KIIT, passionate about backend development, machine learning, and collaborative projects. 
-  Currently enhancing my expertise in Spring Boot and Java.
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kumar-AyushD&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kumar-AyushD&show_icons=true&theme=dark&hide_border=false" alt="GitHub Stats" width="48%" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kumar-AyushD&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</p>
 
-<h2>About Me</h2>
-
-<img width="55%" align="right" alt="Github Banner" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-- 🔭 I’m currently working on [CodeCohort](https://codecohort-nine.vercel.app)
-
-- 🌱 I’m currently learning **Git, Java, and Spring Boot**
-
-- 👯 I’m looking to collaborate on exciting open-source projects
-
-- 📫 How to reach me: **krayush2605@gmail.com**
-
----
-
-<h2>⚡ Tech Stack</h2>
-
-<div>
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,docker,postgres,express,figma,firebase,github,html,java,js,linux,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=12" alt="Tech Stack" />
-    </a>
-  </p>
-</div>
-
----
-
-## 🐱 My GitHub Stats:
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Kumar-AyushD&theme=chartreuse-dark&border_radius=10&card_width=495" alt="GitHub Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Kumar-AyushD&show_icons=true&count_private=true&include_all_commits=true&theme=chartreuse-dark&border_radius=10&card_width=495" alt="GitHub Stats" />
-  <br /><br />
-  <img src="https://github-profile-trophy.vercel.app/?username=Kumar-AyushD&theme=gruvbox&margin-w=10" alt="GitHub Trophies" />
-</div>
-
----
-
-<h2 align="center">🤝 Connect With Me</h2>
+## 🌐 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kumar-ayush-3a9543228" target="_blank">
-    <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="LinkedIn" height="50" width="50" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:krayush2605@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.instagram.com/_ayushthakur_/" target="_blank">
-    <img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="Instagram" height="50" width="50" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
 
----
+## 👀 Profile Views
 
-<h2 align="center">📊 Profile Visits</h2>
-
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Kumar-AyushD&icon=3&color=6" alt="Profile Visit Count">
-  </a>
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=Kumar-AyushD&color=blueviolet)
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Horizontal Divider">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+</p>
