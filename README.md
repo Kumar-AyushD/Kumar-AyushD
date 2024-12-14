@@ -40,13 +40,15 @@ A passionate final-year student at KIIT University, specializing in backend deve
 ## 📊 GitHub Performance
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kumar-AyushD&theme=dark&hide_border=false&fire=DD2727" alt="GitHub Streak" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kumar-AyushD&theme=dark&hide_border=false&fire=DD2727" alt="GitHub Streak" width="50%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kumar-AyushD&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Kumar-AyushD&show_icons=true&theme=dark&hide_border=false" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kumar-AyushD&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="height: 195px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kumar-AyushD&show_icons=true&theme=dark&hide_border=false" alt="GitHub Stats" style="height: 195px;" />
 </p>
+
+
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Kumar-AyushD&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
