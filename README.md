@@ -33,7 +33,7 @@ A passionate final-year student at KIIT University, specializing in backend deve
 
 ## 🚀 Current Focus
 
-- 🔭 Developing [CodeCohort](https://codecohort-nine.vercel.app) - An innovative collaborative learning platform
+- 🔭 Developing [CodeCohort](https://codecohort-nine.vercel.app) - An innovative collaborative platform
 - 🌱 Deepening expertise in Spring Boot, Java, and Cloud Services
 - 🤝 Open to collaborating on challenging open-source projects
 
