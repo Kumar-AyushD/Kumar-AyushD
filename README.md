@@ -1,10 +1,10 @@
-<h1 align="center">Kumar Ayush </h1>
+<h1 align="center">Kumar Ayush</h1>
 
 <h2 align="center">Backend Developer & Machine Learning Enthusiast</h2>
 
 ## 🌟 Professional Summary
 
-A passionate final-year student at KIIT University, specializing in backend development and machine learning. I'm dedicated to creating robust, scalable solutions and continuously expanding my technological expertise.
+I am a passionate final-year student at KIIT University, specializing in backend development and machine learning. I am dedicated to creating robust, scalable solutions and continuously expanding my technological expertise.
 
 ## 💻 Technical Proficiency
 
@@ -16,15 +16,13 @@ A passionate final-year student at KIIT University, specializing in backend deve
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-3776AB?style=flat-square&logo=Cplusplus&logoColor=white)
-
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/-Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
@@ -33,9 +31,9 @@ A passionate final-year student at KIIT University, specializing in backend deve
 
 ## 🚀 Current Focus
 
-- 🔭 Developing [CodeCohort](https://codecohort-nine.vercel.app) - An innovative collaborative platform
-- 🌱 Deepening expertise in Spring Boot, Java, and Cloud Services
-- 🤝 Open to collaborating on challenging open-source projects
+- 🔭 Developing [CodeCohort](https://codecohort-nine.vercel.app) - An innovative collaborative platform.
+- 🌱 Deepening expertise in Spring Boot, Java, and Cloud Services.
+- 🤝 Open to collaborating on challenging open-source projects.
 
 ## 📊 GitHub Performance
 
@@ -44,11 +42,9 @@ A passionate final-year student at KIIT University, specializing in backend deve
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kumar-AyushD&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="height: 195px;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Kumar-AyushD&show_icons=true&theme=dark&hide_border=false" alt="GitHub Stats" style="height: 195px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kumar-AyushD&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="195px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kumar-AyushD&show_icons=true&theme=dark&hide_border=false" alt="GitHub Stats" height="195px" />
 </p>
-
-
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Kumar-AyushD&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
