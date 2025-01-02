@@ -1,5 +1,4 @@
 <h1 align="center">Kumar Ayush</h1>
-
 <h2 align="center">Backend Developer & Machine Learning Enthusiast</h2>
 
 ## 🌟 Professional Summary
