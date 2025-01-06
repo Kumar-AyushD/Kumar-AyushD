@@ -5,7 +5,7 @@
 
 I am a passionate final-year student at KIIT University, specializing in backend development and machine learning. I am dedicated to creating robust, scalable solutions and continuously expanding my technological and Social expertise.
 
-## 💻 Technical Proficiency
+## 💻Technical Proficiency
 
 ### Languages & Frameworks
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
